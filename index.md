@@ -1,17 +1,9 @@
 ---
 title: Granada Publications In-House Style
 author: Mohammad Khalid Hussain
-date: 11 Jumādā al--Ūlā 1438
-header-includes: \usepackage{ebgaramond}
-references:
-  - type: book
-    id: harts
-    author:
-    - given: Oxford University Press
-    year: 2014
-    title: "New Hart's Rules: The Oxford Style Guide"
-    title-short: "New Hart's Rules"
-    language: en-GB
+date: 26 Jamādā al-Ūlā 1438
+header-includes: \usepackage{libertine}
+bibliography: ref.bib
 ---
 
 <!-- TODO
@@ -24,15 +16,38 @@ references:
 
 This document serves to explain all the in-house style rules for books and documents created at Granada Publications. Large documents should be split into parts for easy editing and management. It is highly recommended, nay, compulsory for editors to use text-completion software along with a clipboard manager to ease editing tasks.
 
+\tableofcontents*
+
 # General
 
-The default font for books and articles is [EB Garamond].
+## Language
+
+All publications should use American English unless if the source is in another variant. Consistency of the variant is compulsory.
+
+All text which forms part of worship must be provided in the original language (usually Arabic) with all possible required vowels typed out.
+
+Page numbers in footnotes and elsewhere when abbreviated are 'p.' and 'pp.' for single and multiple page references respectively.
+
+## Font
+
+Only the following fonts may be used for Latin-based text:
+
+1. [EB Garamond]
+2. [Junicode]
+3. [Linux Libertine]
+4. [Cardo]
+
+## Foreign Words
+
+“Isolated non-English words or phrases generally look best italicized rather than placed in quotation marks, especially if they are discussed as set terms rather than quotations from a particular source.”[@waddingham2014new]
+
+If a foreign word has entered the English language, use it in places where its definition in the English language is intended, otherwise use a transliterated version if the original meaning was intended. Example: Imam in English refers to someone who leads the prayer whereas Imām refers to a scholar of high caliber.
 
 ## Dashes
 
-## En Rule
+### En Rule
 
-Use an en rule for ranges. Examples[@harts]
+Use an en rule for ranges. Examples [@waddingham2014new]
 
 1. pp. 23--36
 2. 1939--45
@@ -61,6 +76,8 @@ Use an en rule for ranges. Examples[@harts]
 
 ## References
 
+Use the § symbol to refer to a section. When duplicated, as §§, it is read as the plural "sections" (e.g. "§§ 13–21"), much as "pp." (pages) is the plural of "p." It is common practice to follow the section sign with a non-breaking space, just before the actual section being cited.[@wiki:Section_sign]
+
 ### Qurʾān
 
 «Successful are the believers»
@@ -70,8 +87,6 @@ Use an en rule for ranges. Examples[@harts]
 Sūrah Qāf (50:{45})
 
 ## Diacritics
-
-### Qurʾān
 
 ### Companions
 
@@ -105,11 +120,8 @@ _al--Nāfiʿ al--Kabīr_
 
 ## Small Caps
 
-# Print
-
-# Kindle
-
-# Web
-
 
 [EB Garamond]: http://www.georgduffner.at/ebgaramond/
+[Junicode]: http://junicode.sourceforge.net/
+[Linux Libertine]: http://www.linuxlibertine.org/index.php
+[Cardo]: http://scholarsfonts.net/cardofnt.html
