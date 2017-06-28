@@ -43,6 +43,8 @@ Only the following fonts may be used for Latin-based text:
 
 If a foreign word has entered the English language, use it in places where its definition in the English language is intended, otherwise use a transliterated version if the original meaning was intended. Example: Imam in English refers to someone who leads the prayer whereas Imām refers to a scholar of high caliber.
 
+Names of places, things, and people which are only available when transliterated, e.g. _Shām_, should *not* be italicized.
+
 ## Dashes
 
 ### En Rule
