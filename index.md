@@ -112,6 +112,8 @@ Abū al-Ḥasanāt al-Lucknowī
 
 al-Ḥākim
 
+Ibrāhīm al-Nakhaʿī
+
 ### Books
 
 _Iʿlām al--Muwaqqʿīn_
