@@ -114,6 +114,8 @@ al-Ḥākim
 
 Ibrāhīm al-Nakhaʿī
 
+Jalāl al-Dīn al-Suyūṭī
+
 ### Books
 
 _Iʿlām al--Muwaqqʿīn_
