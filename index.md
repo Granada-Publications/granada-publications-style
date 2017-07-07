@@ -32,10 +32,10 @@ Page numbers in footnotes and elsewhere when abbreviated are 'p.' and 'pp.' for 
 
 Only the following fonts may be used for Latin-based text:
 
-1. [EB Garamond]
-2. [Junicode]
-3. [Linux Libertine]
-4. [Cardo]
+1. EB Garamond (http://www.georgduffner.at/ebgaramond/)
+2. Junicode (http://junicode.sourceforge.net/)
+3. Linux Libertine (http://www.linuxlibertine.org/index.php)
+4. Cardo (http://scholarsfonts.net/cardofnt.html)
 
 ## Foreign Words
 
@@ -58,23 +58,15 @@ Use an en rule for ranges. Examples [@waddingham2014new]
 
 ## Latin
 
-+---------+------------+
-| Term    | Definition |
-+=========+============+
-| NB:     |            |
-+---------+------------+
-| i.e.    |            |
-+---------+------------+
-| e.g.    |            |
-+---------+------------+
-| ibid    |            |
-+---------+------------+
-| ff      |            |
-+---------+------------+
-| lacunae |            |
-+---------+------------+
-| cf      |            |
-+---------+------------+
+| Tables        | Definition      |
+| :------------ | :-------------: |
+| NB:           |                 |
+| i.e.          |                 |
+| e.g.          |                 |
+| ibid          |                 |
+| ff            |                 |
+| lacunae       |                 |
+| cf            |                 |
 
 ## References
 
@@ -119,7 +111,9 @@ Jalāl al-Dīn al-Suyūṭī
 ### Books
 
 _Iʿlām al--Muwaqqʿīn_
+
 _al--Mīzān al-Kubrā_
+
 _al--Nāfiʿ al--Kabīr_
 
 ## Arabic Symbols
@@ -137,10 +131,5 @@ _al--Nāfiʿ al--Kabīr_
 - latin small letter i with macron (U+012B)
 - latin small letter u with macron (U+016B)
 - latin small letter a with macron (U+0101)
-
-[EB Garamond]: http://www.georgduffner.at/ebgaramond/
-[Junicode]: http://junicode.sourceforge.net/
-[Linux Libertine]: http://www.linuxlibertine.org/index.php
-[Cardo]: http://scholarsfonts.net/cardofnt.html
 
 # References
