@@ -127,6 +127,17 @@ _al--Nāfiʿ al--Kabīr_
 ## Small Caps
 
 
+## Unicode Characters
+
+- combining dot below (U+0323)
+- latin small letter h with dot below (U+1E25)
+- latin small letter d with dot below (U+1E0D)
+- latin small letter t with dot below (U+1E6D)
+- latin small letter z with dot below (U+1E93)
+- latin small letter i with macron (U+012B)
+- latin small letter u with macron (U+016B)
+- latin small letter a with macron (U+0101)
+
 [EB Garamond]: http://www.georgduffner.at/ebgaramond/
 [Junicode]: http://junicode.sourceforge.net/
 [Linux Libertine]: http://www.linuxlibertine.org/index.php
