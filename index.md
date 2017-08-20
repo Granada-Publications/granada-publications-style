@@ -39,7 +39,7 @@ Only the following fonts may be used for Latin-based text:
 
 ## Foreign Words
 
-“Isolated non-English words or phrases generally look best italicized rather than placed in quotation marks, especially if they are discussed as set terms rather than quotations from a particular source.”[@waddingham2014new]
+“Isolated non-English words or phrases generally look best italicized rather than placed in quotation marks, especially if they are discussed as set terms rather than quotations from a particular source.” [@waddingham2014new]
 
 If a foreign word has entered the English language, use it in places where its definition in the English language is intended, otherwise use a transliterated version if the original meaning was intended. Example: Imam in English refers to someone who leads the prayer whereas Imām refers to a scholar of high caliber.
 
@@ -58,19 +58,19 @@ Use an en rule for ranges. Examples [@waddingham2014new]
 
 ## Latin
 
-| Tables        | Definition      |
-| :------------ | :-------------: |
-| NB:           |                 |
-| i.e.          |                 |
-| e.g.          |                 |
-| ibid          |                 |
-| ff            |                 |
-| lacunae       |                 |
-| cf            |                 |
+| Term          | Definition     |
+| :------------ | :------------- |
+| NB:           |                |
+| i.e.          |                |
+| e.g.          |                |
+| ibid          |                |
+| ff            |                |
+| lacunae       |                |
+| cf            |                |
 
 ## References
 
-Use the § symbol to refer to a section. When duplicated, as §§, it is read as the plural "sections" (e.g. "§§ 13–21"), much as "pp." (pages) is the plural of "p." It is common practice to follow the section sign with a non-breaking space, just before the actual section being cited.[@wiki:Section_sign]
+Use the § symbol to refer to a section. When duplicated, as §§, it is read as the plural "sections" (e.g. "§§ 13–21"), much as "pp." (pages) is the plural of "p." It is common practice to follow the section sign with a non-breaking space, just before the actual section being cited. [@wiki:Section_sign]
 
 ### Qurʾān
 
@@ -91,6 +91,12 @@ Abū Saʿīd al-Khudrī
 Imām al-Muzanī
 
 ### Scholars
+
+al-Ṭayālisī
+
+ʿAbd al-Ḥaq
+
+al-Ājurrī
 
 al-Bayhaqī
 
