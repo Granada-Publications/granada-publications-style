@@ -45,6 +45,14 @@ If a foreign word has entered the English language, use it in places where its d
 
 Names of places, things, and people which are only available when transliterated, e.g. _Shām_, should *not* be italicized.
 
+### Book Titles
+
+<!-- 
+If a book title is in Arabic followed by its translation in English, how should it be formatted?
+i. Italics followed by Regular
+ii. The whole name in Italics including the English translation
+ -->
+
 ## Dashes
 
 ### En Rule
