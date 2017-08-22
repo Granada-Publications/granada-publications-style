@@ -2,7 +2,12 @@
 title: Granada Publications In-House Style
 author: Mohammad Khalid Hussain
 date: 26 Jamādā al-Ūlā 1438
-header-includes: \usepackage{libertine}
+
+classoption: 12pt
+mainfont: Junicode
+monofont: Inconsolata
+geometry: paperwidth=6in
+geometry: paperheight=9in
 bibliography: ref.bib
 ---
 
@@ -11,12 +16,9 @@ bibliography: ref.bib
   Ex: [perspiciatis.] or [lorem epsum,]
 
 - Fulan cited it in his Musnad/Masa'il/Book title
-- Haqq or Haq
  -->
 
 This document serves to explain all the in-house style rules for books and documents created at Granada Publications. Large documents should be split into parts for easy editing and management. It is highly recommended, nay, compulsory for editors to use text-completion software along with a clipboard manager to ease editing tasks.
-
-\tableofcontents*
 
 # General
 
@@ -36,22 +38,6 @@ Only the following fonts may be used for Latin-based text:
 2. Junicode (http://junicode.sourceforge.net/)
 3. Linux Libertine (http://www.linuxlibertine.org/index.php)
 4. Cardo (http://scholarsfonts.net/cardofnt.html)
-
-## Foreign Words
-
-“Isolated non-English words or phrases generally look best italicized rather than placed in quotation marks, especially if they are discussed as set terms rather than quotations from a particular source.” [@waddingham2014new]
-
-If a foreign word has entered the English language, use it in places where its definition in the English language is intended, otherwise use a transliterated version if the original meaning was intended. Example: Imam in English refers to someone who leads the prayer whereas Imām refers to a scholar of high caliber.
-
-Names of places, things, and people which are only available when transliterated, e.g. _Shām_, should *not* be italicized.
-
-### Book Titles
-
-<!-- 
-If a book title is in Arabic followed by its translation in English, how should it be formatted?
-i. Italics followed by Regular
-ii. The whole name in Italics including the English translation
- -->
 
 ## Dashes
 
@@ -76,11 +62,30 @@ Use an en rule for ranges. Examples [@waddingham2014new]
 | lacunae       |                |
 | cf            |                |
 
+
+# Foreign Words
+
+“Isolated non-English words or phrases generally look best italicized rather than placed in quotation marks, especially if they are discussed as set terms rather than quotations from a particular source.” [@waddingham2014new]
+
+If a foreign word has entered the English language, use it in places where its definition in the English language is intended, otherwise use a transliterated version if the original meaning was intended. Example: Imam in English refers to someone who leads the prayer whereas Imām refers to a scholar of high caliber.
+
+Names of places, things, and people which are only available when transliterated, e.g. _Shām_, should *not* be italicized.
+
+Words which have become part of the English language, i.e. can be found in a dictionary, should be used without diacritics or italics. Examples include but may not be limited to: Imam, Ramadan, Quran, and Shariah. This rule however may change depending on the material being published: if it is academic in nature, preserving the diacritics and italics is recommended, however, if the material is for the general masses, then doing away with diacritics and italics is preferable to ensure a smooth reading.
+
+# Book Titles
+
+<!-- 
+If a book title is in Arabic followed by its translation in English, how should it be formatted?
+i. Italics followed by Regular
+ii. The whole name in Italics including the English translation
+ -->
+
 ## References
 
 Use the § symbol to refer to a section. When duplicated, as §§, it is read as the plural "sections" (e.g. "§§ 13–21"), much as "pp." (pages) is the plural of "p." It is common practice to follow the section sign with a non-breaking space, just before the actual section being cited. [@wiki:Section_sign]
 
-### Qurʾān
+### Quran
 
 «Successful are the believers»
 
@@ -124,11 +129,11 @@ Jalāl al-Dīn al-Suyūṭī
 
 ### Books
 
-_Iʿlām al--Muwaqqʿīn_
+_Iʿlām al-Muwaqqʿīn_
 
-_al--Mīzān al-Kubrā_
+_al-Mīzān al-Kubrā_
 
-_al--Nāfiʿ al--Kabīr_
+_al-Nāfiʿ al-Kabīr_
 
 ## Arabic Symbols
 
@@ -137,13 +142,13 @@ _al--Nāfiʿ al--Kabīr_
 
 ## Unicode Characters
 
-- combining dot below (U+0323)
-- latin small letter h with dot below (U+1E25)
-- latin small letter d with dot below (U+1E0D)
-- latin small letter t with dot below (U+1E6D)
-- latin small letter z with dot below (U+1E93)
-- latin small letter i with macron (U+012B)
-- latin small letter u with macron (U+016B)
-- latin small letter a with macron (U+0101)
+- combining dot below (`U+0323`)
+- latin small letter h with dot below (`U+1E25`)
+- latin small letter d with dot below (`U+1E0D`)
+- latin small letter t with dot below (`U+1E6D`)
+- latin small letter z with dot below (`U+1E93`)
+- latin small letter i with macron (`U+012B`)
+- latin small letter u with macron (`U+016B`)
+- latin small letter a with macron (`U+0101`)
 
 # References
