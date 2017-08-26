@@ -67,7 +67,7 @@ Use an en rule for ranges. Examples [@waddingham2014new]
 
 “Isolated non-English words or phrases generally look best italicized rather than placed in quotation marks, especially if they are discussed as set terms rather than quotations from a particular source.” [@waddingham2014new]
 
-If a foreign word has entered the English language, use it in places where its definition in the English language is intended, otherwise use a transliterated version if the original meaning was intended. Example: Imam in English refers to someone who leads the prayer whereas Imām refers to a scholar of high caliber.
+If a foreign word has entered the English language, use it in places where its definition in the English language is intended, otherwise use a transliterated version if the original meaning was intended.
 
 Names of places, things, and people which are only available when transliterated, e.g. _Shām_, should *not* be italicized.
 
@@ -87,9 +87,11 @@ Use the § symbol to refer to a section. When duplicated, as §§, it is read as
 
 ### Quran
 
-«Successful are the believers»
+«Successful are the believers.»
 
 (Sūrah al--Baqarah, 2:144)
+
+(Quran, 2:144)
 
 Sūrah Qāf (50:{45})
 
@@ -101,27 +103,29 @@ Abū Mūsā al-Ashʿarī
 
 Abū Saʿīd al-Khudrī
 
-Imām al-Muzanī
+Imam al-Muzanī
 
 ### Scholars
 
-al-Ṭayālisī
-
 ʿAbd al-Ḥaq
-
-al-Ājurrī
-
-al-Bayhaqī
-
-al-Ṭaḥāwī
-
-al-Subkī
 
 ʿAbd al-Wahhāb al-Shaʿrānī
 
 Abū al-Ḥasanāt al-Lucknowī
 
+al-Ājurrī
+
+al-Bayhaqī
+
 al-Ḥākim
+
+al-Ṭabarānī
+
+al-Ṭaḥāwī
+
+al-Ṭayālisī
+
+al-Subkī
 
 Ibrāhīm al-Nakhaʿī
 
@@ -129,11 +133,11 @@ Jalāl al-Dīn al-Suyūṭī
 
 ### Books
 
-_Iʿlām al-Muwaqqʿīn_
-
 _al-Mīzān al-Kubrā_
 
 _al-Nāfiʿ al-Kabīr_
+
+_Iʿlām al-Muwaqqʿīn_
 
 ## Arabic Symbols
 
