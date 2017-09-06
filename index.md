@@ -73,6 +73,8 @@ Names of places, things, and people which are only available when transliterated
 
 Words which have become part of the English language, i.e. can be found in a dictionary, should be used without diacritics or italics. Examples include but may not be limited to: Imam, Ramadan, Quran, and Shariah. This rule however may change depending on the material being published: if it is academic in nature, preserving the diacritics and italics is recommended, however, if the material is for the general masses, then doing away with diacritics and italics is preferable to ensure a smooth reading.
 
+Quran translations and _āyah_ numbering should follow the copy of _Hafs ʿan ʿĀsim_. Thus the first _āyah_ of _Sūrah al-Fātiḥah_ is not the _basmalah_. If names of Quran chapters are used in the main text, they should be in italics. If used to define a reference, italics should be avoided. Examples: (a) Read _Sūrah al-Fātiḥah_, (b) «Praises be to the Lord of all worlds.» (Sūrah al-Fātiḥah, 1:1).
+
 # Book Titles
 
 <!-- 
@@ -156,3 +158,5 @@ _Iʿlām al-Muwaqqʿīn_
 - latin small letter a with macron (`U+0101`)
 
 # References
+
+
