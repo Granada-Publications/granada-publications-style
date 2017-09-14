@@ -3,12 +3,15 @@ title: Granada Publications In-House Style
 author: Mohammad Khalid Hussain
 date: 26 Jamādā al-Ūlā 1438
 
+documentclass: scrartcl
 classoption: 12pt
 mainfont: Junicode
 monofont: Inconsolata
+sansfont: Lato
 geometry: paperwidth=6in
-geometry: paperheight=9in
+geometry: paperheight=15in
 bibliography: ref.bib
+header-includes: \usepackage{minitoc}
 ---
 
 <!-- TODO
@@ -17,6 +20,8 @@ bibliography: ref.bib
 
 - Fulan cited it in his Musnad/Masa'il/Book title
  -->
+
+\hrulefill
 
 This document serves to explain all the in-house style rules for books and documents created at Granada Publications. Large documents should be split into parts for easy editing and management. It is highly recommended, nay, compulsory for editors to use text-completion software along with a clipboard manager to ease editing tasks.
 
@@ -73,7 +78,47 @@ Names of places, things, and people which are only available when transliterated
 
 Words which have become part of the English language, i.e. can be found in a dictionary, should be used without diacritics or italics. Examples include but may not be limited to: Imam, Ramadan, Quran, and Shariah. This rule however may change depending on the material being published: if it is academic in nature, preserving the diacritics and italics is recommended, however, if the material is for the general masses, then doing away with diacritics and italics is preferable to ensure a smooth reading.
 
-Quran translations and _āyah_ numbering should follow the copy of _Hafs ʿan ʿĀsim_. Thus the first _āyah_ of _Sūrah al-Fātiḥah_ is not the _basmalah_. If names of Quran chapters are used in the main text, they should be in italics. If used to define a reference, italics should be avoided. Examples: (a) Read _Sūrah al-Fātiḥah_, (b) «Praises be to the Lord of all worlds.» (Sūrah al-Fātiḥah, 1:1).
+Quran translations and _āyah_ numbering should follow the copy of _Hafs ʿan ʿĀsim_. Thus the first _āyah_ of _Sūrah al-Fātiḥah_ is not the _basmalah_. If names of Quran chapters are used in the main text, they should be in italics. If used to define a reference, italics should be avoided. Examples: (a) Read _Sūrah al-Fātiḥah_, (b) «Praises be to the Lord of all worlds.» (Sūrah al-Fātiḥah, 1:1). If the chapters of the Quran are referred to as a noun, then the first _S_ has to be capital, ex: _Sūrahs_ of the Quran.
+
+> According to a more traditional system, periods, commas, colons, and semicolons should appear in the same font as the word, letter, character, or symbol immediately preceding them if different from that of the main or surrounding text. [...] This system, once preferred by Chicago and still preferred by some as more aesthetically pleasing, should be reserved—if it must be used—for publications destined for print only.
+> The Chicago Manual of Style, 16th edition, (§6.2)
+
+## Diacritics
+
+### Companions
+
+Abū Mūsā al-Ashʿarī
+
+Abū Saʿīd al-Khudrī
+
+Imam al-Muzanī
+
+### Scholars
+
+ʿAbd al-Ḥaq
+
+Abū al-Ḥasanāt ʿAbd al-Ḥay al-Lucknāwī
+
+ʿAbd al-Wahhāb al-Shaʿrānī
+
+al-Ājurrī
+
+al-Bayhaqī
+
+al-Ḥākim
+
+al-Ṭabarānī
+
+al-Ṭaḥāwī
+
+al-Ṭayālisī
+
+al-Subkī
+
+Ibrāhīm al-Nakhaʿī
+
+Jalāl al-Dīn al-Suyūṭī
+
 
 # Book Titles
 
@@ -97,42 +142,6 @@ Use the § symbol to refer to a section. When duplicated, as §§, it is read as
 
 Sūrah Qāf (50:{45})
 
-## Diacritics
-
-### Companions
-
-Abū Mūsā al-Ashʿarī
-
-Abū Saʿīd al-Khudrī
-
-Imam al-Muzanī
-
-### Scholars
-
-ʿAbd al-Ḥaq
-
-ʿAbd al-Wahhāb al-Shaʿrānī
-
-Abū al-Ḥasanāt al-Lucknowī
-
-al-Ājurrī
-
-al-Bayhaqī
-
-al-Ḥākim
-
-al-Ṭabarānī
-
-al-Ṭaḥāwī
-
-al-Ṭayālisī
-
-al-Subkī
-
-Ibrāhīm al-Nakhaʿī
-
-Jalāl al-Dīn al-Suyūṭī
-
 ### Books
 
 _al-Mīzān al-Kubrā_
@@ -141,10 +150,9 @@ _al-Nāfiʿ al-Kabīr_
 
 _Iʿlām al-Muwaqqʿīn_
 
-## Arabic Symbols
+# Arabic Symbols
 
 ## Small Caps
-
 
 ## Unicode Characters
 
