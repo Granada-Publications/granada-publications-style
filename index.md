@@ -161,6 +161,7 @@ _Iʿlām al-Muwaqqʿīn_
 - latin small letter d with dot below (`U+1E0D`)
 - latin small letter t with dot below (`U+1E6D`)
 - latin small letter z with dot below (`U+1E93`)
+- latin small letter s with dot below (`U+1E63`)
 - latin small letter i with macron (`U+012B`)
 - latin small letter u with macron (`U+016B`)
 - latin small letter a with macron (`U+0101`)
