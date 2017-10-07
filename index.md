@@ -27,6 +27,10 @@ This document serves to explain all the in-house style rules for books and docum
 
 # General
 
+## Punctuation
+
+If both a question mark and exclamation mark are to be used, the question mark will come first. e.g. What?!
+
 ## Language
 
 All publications should use American English unless if the source is in another variant. Consistency of the variant is compulsory.
