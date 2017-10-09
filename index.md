@@ -161,14 +161,16 @@ _Iʿlām al-Muwaqqʿīn_
 ## Unicode Characters
 
 - combining dot below (`U+0323`)
-- latin small letter h with dot below (`U+1E25`)
-- latin small letter d with dot below (`U+1E0D`)
-- latin small letter t with dot below (`U+1E6D`)
-- latin small letter z with dot below (`U+1E93`)
-- latin small letter s with dot below (`U+1E63`)
-- latin small letter i with macron (`U+012B`)
-- latin small letter u with macron (`U+016B`)
-- latin small letter a with macron (`U+0101`)
+- ḥ: latin small letter h with dot below (`U+1E25`)
+- ḍ: latin small letter d with dot below (`U+1E0D`)
+- ṭ: latin small letter t with dot below (`U+1E6D`)
+- ẓ: latin small letter z with dot below (`U+1E93`)
+- ṣ: latin small letter s with dot below (`U+1E63`)
+- ī: latin small letter i with macron (`U+012B`)
+- ū: latin small letter u with macron (`U+016B`)
+- ā: latin small letter a with macron (`U+0101`)
+- ʿ: modifier letter left half ring (`U+02BF`)
+- ʾ: modifier letter right half ring (`U+02BE`)
 
 # References
 
