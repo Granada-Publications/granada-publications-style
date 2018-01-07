@@ -5,7 +5,7 @@ date: 26 Jamādā al-Ūlā 1438
 
 documentclass: scrartcl
 classoption: 12pt
-mainfont: Junicode
+mainfont: Noto Sans
 monofont: Inconsolata
 sansfont: Lato
 geometry: paperwidth=6in
@@ -95,8 +95,6 @@ Abū Mūsā al-Ashʿarī
 
 Abū Saʿīd al-Khudrī
 
-Imam al-Muzanī
-
 ### Scholars
 
 ʿAbd al-Ḥaq
@@ -105,11 +103,17 @@ Abū al-Ḥasanāt ʿAbd al-Ḥay al-Lucknāwī
 
 ʿAbd al-Wahhāb al-Shaʿrānī
 
+al-Awzāʿī
+
 al-Ājurrī
 
 al-Bayhaqī
 
 al-Ḥākim
+
+al-Muzanī
+
+al-Layth bin Saʿd bin ʿAbd al-Rahmān al-Fahmī
 
 al-Ṭabarānī
 
@@ -117,12 +121,15 @@ al-Ṭaḥāwī
 
 al-Ṭayālisī
 
+al-Thawrī
+
 al-Subkī
+
+al-Zaylaʿī
 
 Ibrāhīm al-Nakhaʿī
 
 Jalāl al-Dīn al-Suyūṭī
-
 
 # Book Titles
 
