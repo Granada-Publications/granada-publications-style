@@ -6,6 +6,8 @@ castigate (tv) - to subject to severe punishment, reproof, or criticism
 
 cogitation (n) - a single thought; the capacity to think or reflect; the act of meditation.
 
+concomitant (v) - accompanying especially in a subordinate or incidental way.
+
 magnum opus (n) - 
 
 predilection (n) - an established preference for something.
