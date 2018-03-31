@@ -131,6 +131,8 @@ Ibrāhīm al-Nakhaʿī
 
 Jalāl al-Dīn al-Suyūṭī
 
+Saʿīd bin Manṣūr
+
 # Book Titles
 
 <!-- 
