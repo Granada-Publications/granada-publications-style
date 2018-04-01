@@ -91,6 +91,10 @@ Quran translations and _āyah_ numbering should follow the copy of _Hafs ʿan ʿ
 
 ### Companions
 
+ʿĀʾishah bint Abī Bakr
+
+al-Ḥusayn ibn ʿAlī ibn Abī Ṭālib
+
 Abū Mūsā al-Ashʿarī
 
 Abū Saʿīd al-Khudrī
