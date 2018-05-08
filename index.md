@@ -93,17 +93,20 @@ Quran translations and _āyah_ numbering should follow the copy of _Hafs ʿan ʿ
 
 ʿĀʾishah bint Abī Bakr
 
+Abū Hurayrah
+
 al-Ḥusayn ibn ʿAlī ibn Abī Ṭālib
 
 Abū Mūsā al-Ashʿarī
 
 Abū Saʿīd al-Khudrī
 
+
 ### Scholars
 
 ʿAbd al-Ḥaq
 
-Abū al-Ḥasanāt ʿAbd al-Ḥay al-Lucknāwī
+Abū al-Ḥasanāt ʿAbd al-Ḥay al-Laknawī
 
 ʿAbd al-Wahhāb al-Shaʿrānī
 
@@ -136,6 +139,12 @@ Ibrāhīm al-Nakhaʿī
 Jalāl al-Dīn al-Suyūṭī
 
 Saʿīd bin Manṣūr
+
+# Places
+
+Kufa al-Kūfah
+
+Basra al-Baṣrah
 
 # Book Titles
 
