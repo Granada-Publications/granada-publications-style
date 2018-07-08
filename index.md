@@ -27,6 +27,12 @@ This document serves to explain all the in-house style rules for books and docum
 
 # General
 
+## Abbreviations
+
+> An abbreviation does not normally have a distinct pronunciation of its own. These properties distinguish abbreviations from **acronyms** and **initialisms** like *NATO* and *BBC*, from **clipped forms** like *gym* and *phone*, and from symbols like * and 5.[@trask2003mind]
+
+> When an organization has a long name, we frequently use a short form of that name obtained by taking the initial letters of the important words of the name. If the result can be pronounced as a word, we call it an *acronym*. Examples of acronyms include *NATO* for the *North Atlantic Treaty Organization* and *NASA* for the *National Aeronautics and Space Administration*. If the result cannot be pronounced as a word, but must be spelled out letter by letter, we call it an *initialism*. Examples include *BBC* for the *British Broadcasting Corporation*...[@trask2003mind]
+
 ## Punctuation
 
 If both a question mark and exclamation mark are to be used, the question mark will come first. e.g. What?!
