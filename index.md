@@ -41,6 +41,16 @@ Prefer the usage of Hijri dates whenever possible including their corresponding 
 
 If both a question mark and exclamation mark are to be used, the question mark will come first. e.g. What?!
 
+## Citations
+
+### Multi-volume books
+
+Examples [@waddingham2014new]:
+
+[1] Vander Straeten, Edmond, *La Musique aux Pays-Bas avant le XIX siecle*, 8 vols (Brussels, 1867--88), ii, 367--8.
+
+[2] Vander Straeten, Edmond, *La Musique aux Pays-Bas avant le XIX siecle*, ii (Brussels, 1872), 367--8.
+
 ## Language
 
 All publications should use American English unless if the source is in another variant. Consistency of the variant is compulsory.
