@@ -103,25 +103,25 @@ Use an en rule for ranges. Examples [@waddingham2014new]
 
 ## Abbreviations
 
-| Term | Definition                                       |
-| :--- | :----------------------------------------------- |
-| NB:  | _nota bene_ Used to point to something important |
-| i.e. | _id est_ “that is”                               |
-| e.g. | _exempli gratia_ “for example”                   |
+| Term | Full form        | Meaning                              |
+| :--- | :--------------- | :----------------------------------- |
+| NB:  | _nota bene_      | Used to point to something important |
+| i.e. | _id est_         | “that is”                            |
+| e.g. | _exempli gratia_ | “for example”                        |
 
 ### Bibliography
 
-| Term  | Defintion                              |
-| :---- | :------------------------------------- |
-| s.a.  | _sine auctore_ "without author"        |
-| s.ed. | _sine editore_ "without editor"        |
-| s.a.  | _sine anno_ "without year"             |
-| s.t.  | _sine titulo_ "without title"          |
-| s.l.  | _sine loco_ "without location"         |
-| s.ed. | _sine editore_ "without publisher"     |
-| ibid  | short for _ibidem_ “In the same place” |
-| cf    | “carried forward”                      |
-| ff    |                                        |
+| Term  | Full form          | Meaning             |
+| :---- | :----------------- | :------------------ |
+| s.a.  | _sine auctore_     | "without author"    |
+| s.ed. | _sine editore_     | "without editor"    |
+| s.a.  | _sine anno_        | "without year"      |
+| s.t.  | _sine titulo_      | "without title"     |
+| s.l.  | _sine loco_        | "without location"  |
+| s.ed. | _sine editore_     | "without publisher" |
+| ibid  | short for _ibidem_ | “In the same place” |
+| cf    |                    | “carried forward”   |
+| ff    |                    |                     |
 
 # Foreign Words
 
