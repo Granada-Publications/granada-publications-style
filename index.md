@@ -1,15 +1,14 @@
 ---
 title: Granada Publications In-House Style
 author: Mohammad Khalid Hussain
-date: 26 Jamādā al-Ūlā 1438
+date: 22 Shaʿbān 1441
 
 documentclass: scrartcl
-classoption: 12pt
+classoption:
+  - 12pt
+  - a4paper
 mainfont: Noto Sans
-monofont: Inconsolata
 sansfont: Lato
-geometry: paperwidth=6in
-geometry: paperheight=15in
 bibliography: ref.bib
 header-includes: \usepackage{minitoc}
 ---
@@ -21,25 +20,43 @@ header-includes: \usepackage{minitoc}
 - Fulan cited it in his Musnad/Masa'il/Book title
  -->
 
-\hrulefill
+# Preface {.unnumbered}
 
-This document serves to explain all the in-house style rules for books and documents created at Granada Publications. Large documents should be split into parts for easy editing and management. It is highly recommended, nay, compulsory for editors to use text-completion software along with a clipboard manager to ease editing tasks.
+This document serves to explain all the in-house style rules for books and
+documents created at Granada Publications. Large documents should be split into
+parts for easy editing and management. It is highly recommended, nay, compulsory
+for editors to use text-completion software along with a clipboard manager to
+ease editing tasks.
 
 # General
 
 ## Abbreviations
 
-> An abbreviation does not normally have a distinct pronunciation of its own. These properties distinguish abbreviations from **acronyms** and **initialisms** like *NATO* and *BBC*, from **clipped forms** like *gym* and *phone*, and from symbols like * and 5.[@trask2003mind]
+> An abbreviation does not normally have a distinct pronunciation of its own.
+> These properties distinguish abbreviations from **acronyms** and
+> **initialisms** like *NATO* and *BBC*, from **clipped forms** like *gym* and
+> *phone*, and from symbols like * and 5.[@trask2003mind]
 
-> When an organization has a long name, we frequently use a short form of that name obtained by taking the initial letters of the important words of the name. If the result can be pronounced as a word, we call it an *acronym*. Examples of acronyms include *NATO* for the *North Atlantic Treaty Organization* and *NASA* for the *National Aeronautics and Space Administration*. If the result cannot be pronounced as a word, but must be spelled out letter by letter, we call it an *initialism*. Examples include *BBC* for the *British Broadcasting Corporation*...[@trask2003mind]
+> When an organization has a long name, we frequently use a short form of that
+> name obtained by taking the initial letters of the important words of the
+> name. If the result can be pronounced as a word, we call it an *acronym*.
+> Examples of acronyms include *NATO* for the *North Atlantic Treaty
+> Organization* and *NASA* for the *National Aeronautics and Space
+> Administration*. If the result cannot be pronounced as a word, but must be
+> spelled out letter by letter, we call it an *initialism*. Examples include
+> *BBC* for the *British Broadcasting Corporation*...[@trask2003mind]
 
 ## Dates
 
-Prefer the usage of Hijri dates whenever possible including their corresponding date in the common era. The abbreviation [AH]{.small-caps} *(anno Hegirae)* comes before the year: [AH]{.small-caps} 1439. Whereas, the abbreviation [CE]{.small-caps} appears after the year: 2018 [CE]{.small-caps}.
+Prefer the usage of Hijri dates whenever possible including their corresponding
+date in the common era. The abbreviation [AH]{.smallcaps} *(anno Hegirae)*
+comes before the year: [AH]{.smallcaps} 1439. Whereas, the abbreviation
+[CE]{.smallcaps} appears after the year: 2018 [CE]{.smallcaps}.
 
 ## Punctuation
 
-If both a question mark and exclamation mark are to be used, the question mark will come first. e.g. What?!
+If both a question mark and exclamation mark are to be used, the question mark
+will come first. e.g. What?!
 
 ## Citations
 
@@ -47,17 +64,22 @@ If both a question mark and exclamation mark are to be used, the question mark w
 
 Examples [@waddingham2014new]:
 
-[1] Vander Straeten, Edmond, *La Musique aux Pays-Bas avant le XIX siecle*, 8 vols (Brussels, 1867--88), ii, 367--8.
+[1] Vander Straeten, Edmond, *La Musique aux Pays-Bas avant le XIX siecle*, 8
+vols (Brussels, 1867--88), ii, 367--8.
 
-[2] Vander Straeten, Edmond, *La Musique aux Pays-Bas avant le XIX siecle*, ii (Brussels, 1872), 367--8.
+[2] Vander Straeten, Edmond, *La Musique aux Pays-Bas avant le XIX siecle*, ii
+(Brussels, 1872), 367--8.
 
 ## Language
 
-All publications should use American English unless if the source is in another variant. Consistency of the variant is compulsory.
+All publications should use American English unless if the source is in another
+variant. Consistency of the variant is compulsory.
 
-All text which forms part of worship must be provided in the original language (usually Arabic) with all possible required vowels typed out.
+All text which forms part of worship must be provided in the original language
+(usually Arabic) with all possible required vowels typed out.
 
-Page numbers in footnotes and elsewhere when abbreviated are 'p.' and 'pp.' for single and multiple page references respectively.
+Page numbers in footnotes and elsewhere when abbreviated are 'p.' and 'pp.' for
+single and multiple page references respectively.
 
 ## Font
 
@@ -79,33 +101,64 @@ Use an en rule for ranges. Examples [@waddingham2014new]
 3. Monday--Sunday
 4. 9.30--5.30
 
-## Latin
+## Abbreviations
 
-| Term          | Definition     |
-| :------------ | :------------- |
-| NB:           |                |
-| i.e.          |                |
-| e.g.          |                |
-| ibid          |                |
-| ff            |                |
-| lacunae       |                |
-| cf            |                |
+| Term | Definition                                       |
+| :--- | :----------------------------------------------- |
+| NB:  | _nota bene_ Used to point to something important |
+| i.e. | _id est_ “that is”                               |
+| e.g. | _exempli gratia_ “for example”                   |
 
+### Bibliography
+
+| Term  | Defintion                              |
+| :---- | :------------------------------------- |
+| s.a.  | _sine auctore_ "without author"        |
+| s.ed. | _sine editore_ "without editor"        |
+| s.a.  | _sine anno_ "without year"             |
+| s.t.  | _sine titulo_ "without title"          |
+| s.l.  | _sine loco_ "without location"         |
+| s.ed. | _sine editore_ "without publisher"     |
+| ibid  | short for _ibidem_ “In the same place” |
+| cf    | “carried forward”                      |
+| ff    |                                        |
 
 # Foreign Words
 
-“Isolated non-English words or phrases generally look best italicized rather than placed in quotation marks, especially if they are discussed as set terms rather than quotations from a particular source.” [@waddingham2014new]
+“Isolated non-English words or phrases generally look best italicized rather
+than placed in quotation marks, especially if they are discussed as set terms
+rather than quotations from a particular source.” [@waddingham2014new]
 
-If a foreign word has entered the English language, use it in places where its definition in the English language is intended, otherwise use a transliterated version if the original meaning was intended.
+If a foreign word has entered the English language, use it in places where its
+definition in the English language is intended, otherwise use a transliterated
+version if the original meaning was intended.
 
-Names of places, things, and people which are only available when transliterated, e.g. _Shām_, should *not* be italicized.
+Names of places, things, and people which are only available when
+transliterated, e.g. _Shām_, should *not* be italicized.
 
-Words which have become part of the English language, i.e. can be found in a dictionary, should be used without diacritics or italics. Examples include but may not be limited to: Imam, Ramadan, Quran, and Shariah. This rule however may change depending on the material being published: if it is academic in nature, preserving the diacritics and italics is recommended, however, if the material is for the general masses, then doing away with diacritics and italics is preferable to ensure a smooth reading.
+Words which have become part of the English language, i.e. can be found in a
+dictionary, should be used without diacritics or italics. Examples include but
+may not be limited to: Imam, Ramadan, Quran, and Shariah. This rule however may
+change depending on the material being published: if it is academic in nature,
+preserving the diacritics and italics is recommended, however, if the material
+is for the general masses, then doing away with diacritics and italics is
+preferable to ensure a smooth reading.
 
-Quran translations and _āyah_ numbering should follow the copy of _Hafs ʿan ʿĀsim_. Thus the first _āyah_ of _Sūrah al-Fātiḥah_ is not the _basmalah_. If names of Quran chapters are used in the main text, they should be in italics. If used to define a reference, italics should be avoided. Examples: (a) Read _Sūrah al-Fātiḥah_, (b) «Praises be to the Lord of all worlds.» (Sūrah al-Fātiḥah, 1:1). If the chapters of the Quran are referred to as a noun, then the first _S_ has to be capital, ex: _Sūrahs_ of the Quran.
+Quran translations and _āyah_ numbering should follow the copy of _Hafs ʿan
+ʿĀsim_. Thus the first _āyah_ of _Sūrah al-Fātiḥah_ is not the _basmalah_. If
+names of Quran chapters are used in the main text, they should be in italics. If
+used to define a reference, italics should be avoided. Examples: (a) Read _Sūrah
+al-Fātiḥah_, (b) «Praises be to the Lord of all worlds.» (Sūrah al-Fātiḥah,
+1:1). If the chapters of the Quran are referred to as a noun, then the first _S_
+has to be capital, ex: _Sūrahs_ of the Quran.
 
-> According to a more traditional system, periods, commas, colons, and semicolons should appear in the same font as the word, letter, character, or symbol immediately preceding them if different from that of the main or surrounding text. [...] This system, once preferred by Chicago and still preferred by some as more aesthetically pleasing, should be reserved—if it must be used—for publications destined for print only.
-> The Chicago Manual of Style, 16th edition, (§6.2)
+> According to a more traditional system, periods, commas, colons, and
+> semicolons should appear in the same font as the word, letter, character, or
+> symbol immediately preceding them if different from that of the main or
+> surrounding text. [...] This system, once preferred by Chicago and still
+> preferred by some as more aesthetically pleasing, should be reserved—if it
+> must be used—for publications destined for print only. The Chicago Manual of
+> Style, 16th edition, (§6.2)
 
 ## Diacritics
 
@@ -162,9 +215,9 @@ Saʿīd bin Manṣūr
 
 # Places
 
-Kufa al-Kūfah
+Kufa -- al-Kūfah
 
-Basra al-Baṣrah
+Basra -- al-Baṣrah
 
 # Book Titles
 
