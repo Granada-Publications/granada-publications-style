@@ -46,6 +46,28 @@ ease editing tasks.
 > spelled out letter by letter, we call it an *initialism*. Examples include
 > *BBC* for the *British Broadcasting Corporation*...[@trask2003mind]
 
+### Common Abbreviations
+
+| Term | Full form        | Meaning                              |
+| :--- | :--------------- | :----------------------------------- |
+| NB:  | _nota bene_      | Used to point to something important |
+| i.e. | _id est_         | “that is”                            |
+| e.g. | _exempli gratia_ | “for example”                        |
+
+### Bibliography
+
+| Term  | Full form          | Meaning             |
+| :---- | :----------------- | :------------------ |
+| s.a.  | _sine auctore_     | "without author"    |
+| s.ed. | _sine editore_     | "without editor"    |
+| s.a.  | _sine anno_        | "without year"      |
+| s.t.  | _sine titulo_      | "without title"     |
+| s.l.  | _sine loco_        | "without location"  |
+| s.ed. | _sine editore_     | "without publisher" |
+| ibid  | short for _ibidem_ | “In the same place” |
+| cf    |                    | “carried forward”   |
+| ff    |                    |                     |
+
 ## Dates
 
 Prefer the usage of Hijri dates whenever possible including their corresponding
@@ -85,10 +107,10 @@ single and multiple page references respectively.
 
 Only the following fonts may be used for Latin-based text:
 
-1. EB Garamond (http://www.georgduffner.at/ebgaramond/)
-2. Junicode (http://junicode.sourceforge.net/)
-3. Linux Libertine (http://www.linuxlibertine.org/index.php)
-4. Cardo (http://scholarsfonts.net/cardofnt.html)
+1. [EB Garamond](http://www.georgduffner.at/ebgaramond/)
+2. [Junicode](http://junicode.sourceforge.net/)
+3. [Linux Libertine](http://www.linuxlibertine.org/index.php)
+4. [Cardo](http://scholarsfonts.net/cardofnt.html)
 
 ## Dashes
 
@@ -100,28 +122,6 @@ Use an en rule for ranges. Examples [@waddingham2014new]
 2. 1939--45
 3. Monday--Sunday
 4. 9.30--5.30
-
-## Abbreviations
-
-| Term | Full form        | Meaning                              |
-| :--- | :--------------- | :----------------------------------- |
-| NB:  | _nota bene_      | Used to point to something important |
-| i.e. | _id est_         | “that is”                            |
-| e.g. | _exempli gratia_ | “for example”                        |
-
-### Bibliography
-
-| Term  | Full form          | Meaning             |
-| :---- | :----------------- | :------------------ |
-| s.a.  | _sine auctore_     | "without author"    |
-| s.ed. | _sine editore_     | "without editor"    |
-| s.a.  | _sine anno_        | "without year"      |
-| s.t.  | _sine titulo_      | "without title"     |
-| s.l.  | _sine loco_        | "without location"  |
-| s.ed. | _sine editore_     | "without publisher" |
-| ibid  | short for _ibidem_ | “In the same place” |
-| cf    |                    | “carried forward”   |
-| ff    |                    |                     |
 
 # Foreign Words
 
